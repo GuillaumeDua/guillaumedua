@@ -1,4 +1,7 @@
 ### :fireworks: About me: Guillaume "Guss" Dua :fireworks:
+
+_Note: this is my personnal - thus, not professional - account._
+
 ---
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=guillaumedua&show_icons=true&theme=tokyonight)
