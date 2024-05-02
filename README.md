@@ -1,4 +1,4 @@
-### :fireworks: About me: Guillaume "Guss" Dua :fireworks:
+### :fireworks: About me: Guillaume Dua :fireworks:
 
 _Note: this is my personnal - thus, not professional - account._
 
