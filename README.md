@@ -2,6 +2,8 @@
 
 _Note: this is my personnal - thus, not professional - account._
 
+👀📰Check my publication [here](https://gist.github.com/GuillaumeDua) (trip-reports, papers, etc.).
+
 ---
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=guillaumedua&show_icons=true&theme=tokyonight)
